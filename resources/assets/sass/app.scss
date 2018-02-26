@@ -1,0 +1,28 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro:400,400i,700,700i&subset=cyrillic,latin-ext');
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.b_pagePreview {
+  img {
+    width: 100%;
+  }
+}
+.b_pageEditor {
+  .b_pageEditor_e_content {
+    background-color: #fff;
+    border: 1px solid #b5b5b5;
+    padding: 10px;
+  }
+}
+
+.b_pageNav {
+
+}
